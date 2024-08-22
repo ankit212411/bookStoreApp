@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Book 1",
+    "title": "Introduction to JSON",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10232004-L.jpg"
+  },
+  {
+    "name": "Book 2",
+    "title": "Advanced JSON Techniques",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10521820-L.jpg"
+  },
+  {
+    "name": "Book 3",
+    "title": "JSON for Beginners",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10452682-L.jpg"
+  },
+  {
+    "name": "Book 4",
+    "title": "Learning JSON",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10523800-L.jpg"
+  },
+  {
+    "name": "Book 5",
+    "title": "Mastering JSON",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10417432-L.jpg"
+  },
+  {
+    "name": "Book 6",
+    "title": "JSON Simplified",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10369054-L.jpg"
+  },
+  {
+    "name": "Book 7",
+    "title": "Understanding JSON",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10374982-L.jpg"
+  },
+  {
+    "name": "Book 8",
+    "title": "The JSON Guide",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10524124-L.jpg"
+  },
+  {
+    "name": "Book 9",
+    "title": "JSON Essentials",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10522822-L.jpg"
+  },
+  {
+    "name": "Book 10",
+    "title": "Pro JSON",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10450348-L.jpg"
+  },
+  {
+    "name": "Book 11",
+    "title": "JSON Handbook",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10357034-L.jpg"
+  },
+  {
+    "name": "Book 12",
+    "title": "The Art of JSON",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10524004-L.jpg"
+  },
+  {
+    "name": "Book 13",
+    "title": "JSON Techniques",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10392955-L.jpg"
+  },
+  {
+    "name": "Book 14",
+    "title": "Learning JSON Structure",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10449001-L.jpg"
+  },
+  {
+    "name": "Book 15",
+    "title": "JSON Syntax Guide",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10452301-L.jpg"
+  },
+  {
+    "name": "Book 16",
+    "title": "JSON Programming",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10389687-L.jpg"
+  },
+  {
+    "name": "Book 17",
+    "title": "Mastering JSON Data",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10453758-L.jpg"
+  },
+  {
+    "name": "Book 18",
+    "title": "Understanding JSON Formats",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10521102-L.jpg"
+  },
+  {
+    "name": "Book 19",
+    "title": "JSON Best Practices",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10374180-L.jpg"
+  },
+  {
+    "name": "Book 20",
+    "title": "The Complete JSON Guide",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10449235-L.jpg"
+  },
+  {
+    "name": "Book 21",
+    "title": "Advanced JSON Data Handling",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10451789-L.jpg"
+  },
+  {
+    "name": "Book 22",
+    "title": "JSON for Experts",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10446257-L.jpg"
+  },
+  {
+    "name": "Book 23",
+    "title": "JSON Data Formats",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10386574-L.jpg"
+  },
+  {
+    "name": "Book 24",
+    "title": "JSON Data Structures",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10396462-L.jpg"
+  },
+  {
+    "name": "Book 25",
+    "title": "Introduction to JSON Data",
+    "price": 0,
+    "category": "free",
+    "image": "https://covers.openlibrary.org/b/id/10521537-L.jpg"
+  },
+  {
+    "name": "Book 26",
+    "title": "Programming in Python",
+    "price": 29.99,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10479445-L.jpg"
+  },
+  {
+    "name": "Book 27",
+    "title": "Mastering JavaScript",
+    "price": 19.99,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10446425-L.jpg"
+  },
+  {
+    "name": "Book 28",
+    "title": "Data Science Handbook",
+    "price": 24.99,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10527810-L.jpg"
+  },
+  {
+    "name": "Book 29",
+    "title": "Web Development with HTML5",
+    "price": 22.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10446347-L.jpg"
+  },
+  {
+    "name": "Book 30",
+    "title": "Machine Learning Essentials",
+    "price": 34.99,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10529209-L.jpg"
+  },
+  {
+    "name": "Book 31",
+    "title": "The Modern Web",
+    "price": 21.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10452720-L.jpg"
+  },
+  {
+    "name": "Book 32",
+    "title": "Cybersecurity Basics",
+    "price": 27.99,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10529199-L.jpg"
+  },
+  {
+    "name": "Book 33",
+    "title": "Advanced Data Analysis",
+    "price": 30.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10450476-L.jpg"
+  },
+  {
+    "name": "Book 34",
+    "title": "Introduction to Machine Learning",
+    "price": 28.5,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10528540-L.jpg"
+  },
+  {
+    "name": "Book 35",
+    "title": "Python for Data Science",
+    "price": 32.99,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10452315-L.jpg"
+  },
+  {
+    "name": "Book 36",
+    "title": "Deep Learning Fundamentals",
+    "price": 35.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10446609-L.jpg"
+  },
+  {
+    "name": "Book 37",
+    "title": "HTML5 and CSS3",
+    "price": 25.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10522990-L.jpg"
+  },
+  {
+    "name": "Book 38",
+    "title": "JavaScript: The Good Parts",
+    "price": 18.0,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10522867-L.jpg"
+  },
+  {
+    "name": "Book 39",
+    "title": "Big Data Analytics",
+    "price": 29.5,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10450893-L.jpg"
+  },
+  {
+    "name": "Book 40",
+    "title": "Fundamentals of Cybersecurity",
+    "price": 26.99,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10528894-L.jpg"
+  },
+  {
+    "name": "Book 41",
+    "title": "Java Programming for Beginners",
+    "price": 20.0,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10450853-L.jpg"
+  },
+  {
+    "name": "Book 42",
+    "title": "React for Beginners",
+    "price": 22.0,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10452045-L.jpg"
+  },
+  {
+    "name": "Book 43",
+    "title": "Node.js Essentials",
+    "price": 19.99,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10522958-L.jpg"
+  },
+  {
+    "name": "Book 44",
+    "title": "Introduction to SQL",
+    "price": 24.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10521058-L.jpg"
+  },
+  {
+    "name": "Book 45",
+    "title": "Kubernetes in Action",
+    "price": 32.0,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10528881-L.jpg"
+  },
+  {
+    "name": "Book 46",
+    "title": "Cybersecurity for Dummies",
+    "price": 27.0,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10450861-L.jpg"
+  },
+  {
+    "name": "Book 47",
+    "title": "Advanced Python Programming",
+    "price": 33.0,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10521356-L.jpg"
+  },
+  {
+    "name": "Book 48",
+    "title": "Mastering Angular",
+    "price": 25.0,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10528622-L.jpg"
+  },
+  {
+    "name": "Book 49",
+    "title": "Introduction to Data Science",
+    "price": 28.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10521345-L.jpg"
+  },
+  {
+    "name": "Book 50",
+    "title": "AI and Machine Learning",
+    "price": 35.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10522654-L.jpg"
+  },
+  {
+    "name": "Book 51",
+    "title": "Web Development with Python",
+    "price": 26.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10523235-L.jpg"
+  },
+  {
+    "name": "Book 52",
+    "title": "Data Visualization with Python",
+    "price": 27.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10528943-L.jpg"
+  },
+  {
+    "name": "Book 53",
+    "title": "Cloud Computing Basics",
+    "price": 23.99,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10521476-L.jpg"
+  },
+  {
+    "name": "Book 54",
+    "title": "Cybersecurity Threats and Solutions",
+    "price": 30.0,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10529311-L.jpg"
+  },
+  {
+    "name": "Book 55",
+    "title": "Big Data with Spark",
+    "price": 29.99,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10452531-L.jpg"
+  },
+  {
+    "name": "Book 56",
+    "title": "Essentials of Java",
+    "price": 24.99,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10529546-L.jpg"
+  },
+  {
+    "name": "Book 57",
+    "title": "Deep Learning with TensorFlow",
+    "price": 34.99,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10522288-L.jpg"
+  },
+  {
+    "name": "Book 58",
+    "title": "Fundamentals of Web Development",
+    "price": 23.5,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10521046-L.jpg"
+  },
+  {
+    "name": "Book 59",
+    "title": "Introduction to JavaScript",
+    "price": 19.0,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10529424-L.jpg"
+  },
+  {
+    "name": "Book 60",
+    "title": "Network Security Basics",
+    "price": 26.5,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10451485-L.jpg"
+  },
+  {
+    "name": "Book 61",
+    "title": "Introduction to React",
+    "price": 21.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10452835-L.jpg"
+  },
+  {
+    "name": "Book 62",
+    "title": "Practical Data Science",
+    "price": 28.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10522762-L.jpg"
+  },
+  {
+    "name": "Book 63",
+    "title": "Introduction to Cloud Computing",
+    "price": 24.99,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10522809-L.jpg"
+  },
+  {
+    "name": "Book 64",
+    "title": "Advanced Java Programming",
+    "price": 27.5,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10527954-L.jpg"
+  },
+  {
+    "name": "Book 65",
+    "title": "Machine Learning with Python",
+    "price": 33.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10521185-L.jpg"
+  },
+  {
+    "name": "Book 66",
+    "title": "JavaScript for Web Development",
+    "price": 19.95,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10521115-L.jpg"
+  },
+  {
+    "name": "Book 67",
+    "title": "Data Engineering on Google Cloud",
+    "price": 32.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10527831-L.jpg"
+  },
+  {
+    "name": "Book 68",
+    "title": "Introduction to DevOps",
+    "price": 25.5,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10529344-L.jpg"
+  },
+  {
+    "name": "Book 69",
+    "title": "Introduction to Data Engineering",
+    "price": 29.99,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10527876-L.jpg"
+  },
+  {
+    "name": "Book 70",
+    "title": "Python for Web Development",
+    "price": 22.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10450682-L.jpg"
+  },
+  {
+    "name": "Book 71",
+    "title": "Advanced Cloud Computing",
+    "price": 34.0,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10528495-L.jpg"
+  },
+  {
+    "name": "Book 72",
+    "title": "Data Science with R",
+    "price": 31.99,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10529162-L.jpg"
+  },
+  {
+    "name": "Book 73",
+    "title": "Building Scalable Web Apps",
+    "price": 28.5,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10521998-L.jpg"
+  },
+  {
+    "name": "Book 74",
+    "title": "Cybersecurity Threats and Solutions",
+    "price": 27.99,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10529168-L.jpg"
+  },
+  {
+    "name": "Book 75",
+    "title": "Introduction to Blockchain",
+    "price": 30.0,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10522254-L.jpg"
+  },
+  {
+    "name": "Book 76",
+    "title": "Data Science Fundamentals",
+    "price": 27.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10529200-L.jpg"
+  },
+  {
+    "name": "Book 77",
+    "title": "Advanced React",
+    "price": 31.0,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10527766-L.jpg"
+  },
+  {
+    "name": "Book 78",
+    "title": "Introduction to API Design",
+    "price": 22.5,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10529122-L.jpg"
+  },
+  {
+    "name": "Book 79",
+    "title": "Machine Learning in Practice",
+    "price": 29.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10521977-L.jpg"
+  },
+  {
+    "name": "Book 80",
+    "title": "Java Programming Basics",
+    "price": 20.99,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10528594-L.jpg"
+  },
+  {
+    "name": "Book 81",
+    "title": "Introduction to R Programming",
+    "price": 25.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10529536-L.jpg"
+  },
+  {
+    "name": "Book 82",
+    "title": "Advanced Topics in Cybersecurity",
+    "price": 32.0,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10527546-L.jpg"
+  },
+  {
+    "name": "Book 83",
+    "title": "Web Development Best Practices",
+    "price": 24.0,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10527458-L.jpg"
+  },
+  {
+    "name": "Book 84",
+    "title": "Introduction to Cloud Data",
+    "price": 27.5,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10528790-L.jpg"
+  },
+  {
+    "name": "Book 85",
+    "title": "Machine Learning Algorithms",
+    "price": 31.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10528521-L.jpg"
+  },
+  {
+    "name": "Book 86",
+    "title": "Python for Data Analysis",
+    "price": 29.0,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10527934-L.jpg"
+  },
+  {
+    "name": "Book 87",
+    "title": "Modern Web Technologies",
+    "price": 22.0,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10527518-L.jpg"
+  },
+  {
+    "name": "Book 88",
+    "title": "Introduction to AI",
+    "price": 26.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10527516-L.jpg"
+  },
+  {
+    "name": "Book 89",
+    "title": "Advanced SQL Techniques",
+    "price": 28.99,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10529409-L.jpg"
+  },
+  {
+    "name": "Book 90",
+    "title": "JavaScript Best Practices",
+    "price": 23.0,
+    "category": "technology",
+    "image": "https://covers.openlibrary.org/b/id/10529647-L.jpg"
+  },
+  {
+    "name": "Book 91",
+    "title": "Cybersecurity Advanced Techniques",
+    "price": 30.0,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10527609-L.jpg"
+  },
+  {
+    "name": "Book 92",
+    "title": "Introduction to Web Development",
+    "price": 25.99,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10527415-L.jpg"
+  },
+  {
+    "name": "Book 93",
+    "title": "Data Science with Spark",
+    "price": 29.0,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10529178-L.jpg"
+  },
+  {
+    "name": "Book 94",
+    "title": "AI in Practice",
+    "price": 31.5,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10529609-L.jpg"
+  },
+  {
+    "name": "Book 95",
+    "title": "Building Secure Applications",
+    "price": 27.0,
+    "category": "cybersecurity",
+    "image": "https://covers.openlibrary.org/b/id/10527437-L.jpg"
+  },
+  {
+    "name": "Book 96",
+    "title": "Introduction to C#",
+    "price": 20.5,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10529575-L.jpg"
+  },
+  {
+    "name": "Book 97",
+    "title": "Fundamentals of Web Programming",
+    "price": 24.0,
+    "category": "web development",
+    "image": "https://covers.openlibrary.org/b/id/10528580-L.jpg"
+  },
+  {
+    "name": "Book 98",
+    "title": "Deep Learning Applications",
+    "price": 33.0,
+    "category": "machine learning",
+    "image": "https://covers.openlibrary.org/b/id/10529302-L.jpg"
+  },
+  {
+    "name": "Book 99",
+    "title": "Data Science Projects",
+    "price": 27.5,
+    "category": "data science",
+    "image": "https://covers.openlibrary.org/b/id/10527531-L.jpg"
+  },
+  {
+    "name": "Book 100",
+    "title": "Introduction to Software Engineering",
+    "price": 30.0,
+    "category": "education",
+    "image": "https://covers.openlibrary.org/b/id/10528290-L.jpg"
+  }
+]
