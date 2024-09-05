@@ -2,7 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
-const cors = require('cors');
+import {cors} from 'cors';
 
 import bookRoute from './route/book.route.js';
 import userRoute from './route/user.route.js';
