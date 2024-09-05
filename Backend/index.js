@@ -8,14 +8,17 @@ import bookRoute from './route/book.route.js';
 import userRoute from './route/user.route.js';
 
 const app = express();
-app.use(cors());
 app.use(express.json());
 
 dotenv.config();
 
 const PORT = process.env.PORT || 4000;
 const URI = process.env.VERCEL_MongoDBURI;
+app.use(cors({
+  origin: process.env.VERCEL_FRONTEND_URL ? process.env.VERCEL_FRONTEND_URL : "*"
+}));
 
+console.log("FRont end  URI:", process.env.VERCEL_FRONTEND_URL);
 app.options('*', cors());
 
 app.get('/ping', (req, res) => { 
@@ -28,7 +31,6 @@ try {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
-  console.log("MONGO URI:", process.env.VERCEL_MongoDBURI);
     console.log('Connected to MongoDB');
 } catch (error) {
     console.log(error);
