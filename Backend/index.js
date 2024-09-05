@@ -2,7 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import mongoose from 'mongoose';
 import http from 'http';
-import cors from 'cors';
+const cors = require('cors');
 
 import bookRoute from './route/book.route.js';
 import userRoute from './route/user.route.js';
@@ -15,7 +15,6 @@ dotenv.config();
 
 const PORT = process.env.PORT || 4000;
 const URI = process.env.VERCEL_MongoDBURI;
-app.use(cors());
 
 app.options('*', cors());
 //connect to mongoDB
