@@ -21,7 +21,7 @@ function Signup() {
       password: data.password,
     };
     await axios
-      .post("https://book-store-app-murex.vercel.app/user/signup", userInfo)
+      .post(`${import.meta.env.VITE_BACKEND_HOST}/user/signup`, userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
