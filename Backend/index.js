@@ -17,12 +17,18 @@ const PORT = process.env.PORT || 4000;
 const URI = process.env.VERCEL_MongoDBURI;
 
 app.options('*', cors());
+
+app.get('/ping', (req, res) => { 
+  res.send('Backend Server response');
+})
+
 //connect to mongoDB
 try {
     mongoose.connect(URI, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
     });
+  console.log("MONGO URI:", process.env.VERCEL_MongoDBURI);
     console.log('Connected to MongoDB');
 } catch (error) {
     console.log(error);
